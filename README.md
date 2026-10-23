@@ -1,6 +1,4 @@
-# Car Evaluation System
-
-**Intern ID: CITS7455**
+# Car Evaluation System(Intern ID : CITS7455)
 
 A full-stack used-car evaluation and selling assistant. The application combines
 a trained machine-learning model with ownership details, optional AI exterior
